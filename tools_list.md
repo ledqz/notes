@@ -9,5 +9,5 @@
 3. **Android FOSS Apps List**: 
 	- [FOSS Apps](https://brainfucksec.github.io/android-foss-apps-list)
 	
-4.**Android App Compatiblity on de-Googled devices**: 
+4. **Android App Compatiblity on de-Googled devices**: 
 	- [Plexus](https://plexus.techlore.tech/)
