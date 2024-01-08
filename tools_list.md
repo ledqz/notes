@@ -14,3 +14,12 @@
 
 5. **Games with kernel-level anti-cheat software**: 
 	- [Levvvel](https://levvvel.com/games-with-kernel-level-anti-cheat-software/)
+
+6. **LibreWolf Updater for Win10**: 
+	- [LWWU](https://codeberg.org/ltGuillaume/LibreWolf-WinUpdater)
+
+7. **Disposable and Anonymous Emails**: 
+	- [YOPmail](https://yopmail.com/)
+
+7. **AI Tool Directory**: 
+	- [Futurepedia](https://www.futurepedia.io/)
