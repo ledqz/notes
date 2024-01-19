@@ -23,3 +23,7 @@
 
 7. **AI Tool Directory**: 
 	- [Futurepedia](https://www.futurepedia.io/)
+
+7. **Android SDK Platform Tools**: 
+	- [ADB Platform Tools](https://developer.android.com/tools/releases/platform-tools)
+
