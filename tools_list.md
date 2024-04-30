@@ -20,11 +20,13 @@
 
 7. **Disposable and Anonymous Emails**: 
 	- [YOPmail](https://yopmail.com/)
- 	- [SimpleLogin](https://simplelogin.io/)
 
-7. **AI Tool Directory**: 
+8. **AI Tool Directory**: 
 	- [Futurepedia](https://www.futurepedia.io/)
 
-7. **Android SDK Platform Tools**: 
+9. **Android SDK Platform Tools**: 
 	- [ADB Platform Tools](https://developer.android.com/tools/releases/platform-tools)
+
+10. **Email Aliases**: 
+ 	- [SimpleLogin](https://simplelogin.io/)
 
