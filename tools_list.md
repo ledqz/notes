@@ -20,6 +20,7 @@
 
 7. **Disposable and Anonymous Emails**: 
 	- [YOPmail](https://yopmail.com/)
+ 	- [SimpleLogin](https://simplelogin.io/)
 
 7. **AI Tool Directory**: 
 	- [Futurepedia](https://www.futurepedia.io/)
