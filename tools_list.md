@@ -12,8 +12,8 @@
 4. **Android App Compatiblity on de-Googled devices**: 
 	- [Plexus](https://plexus.techlore.tech/)
 
-5. **Games with kernel-level anti-cheat software**: 
-	- [Levvvel](https://levvvel.com/games-with-kernel-level-anti-cheat-software/)
+5. **AI Tools Catalogue**: 
+	- [Futurepedia](https://www.futurepedia.io/)
 
 6. **LibreWolf Updater for Win10**: 
 	- [LWWU](https://codeberg.org/ltGuillaume/LibreWolf-WinUpdater)
