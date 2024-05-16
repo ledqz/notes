@@ -21,8 +21,8 @@
 7. **Disposable and Anonymous Emails**: 
 	- [YOPmail](https://yopmail.com/)
 
-8. **AI Tool Directory**: 
-	- [Futurepedia](https://www.futurepedia.io/)
+8. **FOSS Front-Ends and Alternatives**: 
+	- [Alternatives](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more#twitter)
 
 9. **Android SDK Platform Tools**: 
 	- [ADB Platform Tools](https://developer.android.com/tools/releases/platform-tools)
