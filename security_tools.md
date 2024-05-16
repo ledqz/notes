@@ -12,3 +12,8 @@
 4. **Browser Extensions**: 
 	- [Github Link](https://github.com/arkenfox/user.js/wiki/4.1-Extensions)
 
+5. **Games with kernel-level anti-cheat software**: 
+	- [Levvvel](https://levvvel.com/games-with-kernel-level-anti-cheat-software/)
+
+
+
