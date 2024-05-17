@@ -30,3 +30,15 @@
 10. **Email Aliases**: 
  	- [SimpleLogin](https://simplelogin.io/)
 
+11. **Design Directories**: 
+ 	- [StorySet](https://storyset.com/)
+	- [Boxicons](https://boxicons.com/)
+	- [Icon Archive](https://iconarchive.com/)
+
+12. **Count of Programming Lnaguages**: 
+ 	- [TIOBE Index](http://www.tiobe.com/tiobe-index/)
+
+
+
+
+
