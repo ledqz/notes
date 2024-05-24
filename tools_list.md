@@ -41,4 +41,9 @@
 13. **Android SDK Platform-Tools**: 
  	- [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
 
+13. **Virtual Payment Cards**: 
+ 	- [Privacy](https://privacy.com/)
+
+
+
 
