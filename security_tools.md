@@ -18,7 +18,7 @@
 6. **What are the best private browsers?**: 
 	- [PrivacyTests.org](https://privacytests.org/)
 
-
-
+7. **Free antispy tool for Windows 10 and 11**: 
+	- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
 
 
