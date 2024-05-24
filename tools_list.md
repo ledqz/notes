@@ -38,7 +38,7 @@
 12. **Count of Programming Lnaguages**: 
  	- [TIOBE Index](http://www.tiobe.com/tiobe-index/)
 
-
-
+13. **Android SDK Platform-Tools**: 
+ 	- [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
 
 
