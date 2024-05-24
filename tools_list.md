@@ -24,8 +24,8 @@
 8. **FOSS Front-Ends and Alternatives**: 
 	- [Alternatives](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more#twitter)
 
-9. **Android SDK Platform Tools**: 
-	- [ADB Platform Tools](https://developer.android.com/tools/releases/platform-tools)
+13. **Android SDK Platform-Tools**: 
+ 	- [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
 
 10. **Email Aliases**: 
  	- [SimpleLogin](https://simplelogin.io/)
@@ -37,9 +37,6 @@
 
 12. **Count of Programming Lnaguages**: 
  	- [TIOBE Index](http://www.tiobe.com/tiobe-index/)
-
-13. **Android SDK Platform-Tools**: 
- 	- [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
 
 13. **Virtual Payment Cards**: 
  	- [Privacy](https://privacy.com/)
