@@ -14,6 +14,6 @@
 	- [Symbolab](https://www.symbolab.com/)
 	- [Free Online Math Calculator and Converter](https://www.easycalculation.com/)
 
-
-
+3. **Demonstration of Game Theory**: 
+	- [The Evolution of Trust](https://ncase.me/trust/)
 
