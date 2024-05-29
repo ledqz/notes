@@ -20,5 +20,6 @@
 6. **Foundation of Geometry**: 
 	- [Euclid's Elements](https://ncase.me/trust/)
 
-
+7. **Math Chatbot**: 
+	- [Mathway](https://www.mathway.com/) // Defaults to Algebra
 
