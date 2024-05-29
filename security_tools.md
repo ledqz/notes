@@ -21,4 +21,9 @@
 7. **Free antispy tool for Windows 10 and 11**: 
 	- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10)
 
+8. **What every Browser knows about you**: 
+	- [webkay.robinlinus.com](https://webkay.robinlinus.com/)
+
+
+
 
