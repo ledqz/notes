@@ -24,6 +24,8 @@
 8. **What every Browser knows about you**: 
 	- [webkay.robinlinus.com](https://webkay.robinlinus.com/)
 
-
+9. **A directory of direct links to delete your account from web services.**: 
+	- [justdelete.me](https://backgroundchecks.org/justdeleteme/#)
+		+ [Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)
 
 
