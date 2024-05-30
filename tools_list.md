@@ -24,7 +24,7 @@
 8. **FOSS Front-Ends and Alternatives**: 
 	- [Alternatives](https://www.funkyspacemonkey.com/foss-front-ends-and-alternatives-for-twitter-instagram-reddit-youtube-and-more#twitter)
 
-13. **Android SDK Platform-Tools**: 
+9. **Android SDK Platform-Tools**: 
  	- [Android Debug Bridge](https://developer.android.com/tools/releases/platform-tools)
 
 10. **Email Aliases**: 
@@ -41,6 +41,7 @@
 13. **Virtual Payment Cards**: 
  	- [Privacy](https://privacy.com/)
 
-
+14. **Open-Source and Private System Cleaner**: 
+ 	- [BleachBit](https://www.bleachbit.org/)
 
 
